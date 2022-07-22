@@ -13,7 +13,7 @@ git clone https://github.com/Fulliar/kodluyoruzilkrepo.git
 ```
 
 ## **Usage**
-------------------------
+
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -25,11 +25,13 @@ code
 ```
 
 ## **Contributing**
----------
+
+
 
 Pull requester kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştrimek istediğinizi tartışmak için bir konu açınız.
 
 ## **License**
-------------------
+
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
