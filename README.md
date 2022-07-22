@@ -2,10 +2,9 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fron-End Eğitiminde oluşturtuğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![GithubIlkRepo](<a href="https://resimlink.com/lk67mzTaX" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/lk67mzTaX.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>)
+![GithubIlkRepo](https://raw.githubusercontent.com/Fulliar/kodluyoruzilkrepo/main/GithubIlkRepo.png)
 
 ## **Installation**
--------------------------------
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
